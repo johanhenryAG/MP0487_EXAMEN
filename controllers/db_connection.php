@@ -1,5 +1,5 @@
 <?php
-//Johan
+//Johan Agreda
 $server = "127.0.0.1";
 $user = "root";
 $password = ""; // contraseña vacía
